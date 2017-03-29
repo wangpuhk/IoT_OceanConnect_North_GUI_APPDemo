@@ -7,5 +7,5 @@
 	"CommandManagerForAgent":"DISABLE",
 
 	"RuleManager":"ENABLE",
-	"SubscribeManager":"ENABLE"
+	"SubscribeManager":"DISABLE"
 }
