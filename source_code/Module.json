@@ -1,0 +1,11 @@
+{
+	"AppManager":"ENABLE",
+	"DeviceManager":"ENABLE",
+	"DataManager":"ENABLE",
+
+	"CommandManagerForNB":"ENABLE",
+	"CommandManagerForAgent":"DISABLE",
+
+	"RuleManager":"ENABLE",
+	"SubscribeManager":"DISABLE"
+}
