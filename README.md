@@ -22,7 +22,6 @@ North GUI App Demo V1.0
 	* src：源码文件
 	* lib：依赖库
 	* Module.json：模块配置文件（可以通过配置该文件，使能北向应用的不同模块）；
-	* Demo.jar：可执行程序;
 	* ExceptionTrace.txt：异常记录。
 
 ## 入门指导
